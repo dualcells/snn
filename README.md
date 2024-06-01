@@ -1,2 +1,2 @@
 # snn
-ServiceNow Notes
+ServiceNow Notes are in the wiki.
